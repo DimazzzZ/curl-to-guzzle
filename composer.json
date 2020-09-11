@@ -1,0 +1,13 @@
+{
+  "name": "dimazzzz/curl-to-guzzle",
+  "version": "0.1.1",
+  "autoload": {
+    "psr-4": {
+      "DimazzzZ\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
